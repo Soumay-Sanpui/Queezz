@@ -11,7 +11,7 @@
     border: none;
     background: linear-gradient(to right, rgb(239, 68, 68), rgb(153, 27, 27));
     color: white;
-    box-shadow: 2px 2px 35px 5px rgba(242,38,38,0.66);
+    box-shadow: -6px 10px 50px -6px rgba(242,38,38,0.66);
     -webkit-box-shadow: 2px 2px 35px 5px rgba(242,38,38,0.66);
     -moz-box-shadow: 2px 2px 35px 5px rgba(242,38,38,0.66);
 }
